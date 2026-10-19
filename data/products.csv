@@ -1,0 +1,21 @@
+product_id,product_name,category,price
+1,Laptop,Electronics,18500
+2,Smartphone,Electronics,12000
+3,Headphones,Electronics,1500
+4,Smart Watch,Electronics,4200
+5,Tablet,Electronics,9500
+6,Office Chair,Furniture,3200
+7,Desk,Furniture,4500
+8,Bookshelf,Furniture,2100
+9,Sofa,Furniture,15000
+10,T-Shirt,Clothing,350
+11,Jeans,Clothing,750
+12,Jacket,Clothing,1600
+13,Sneakers,Clothing,2200
+14,Coffee Maker,Home Appliances,2800
+15,Blender,Home Appliances,1300
+16,Air Fryer,Home Appliances,3500
+17,Microwave,Home Appliances,4800
+18,Notebook Pack,Stationery,120
+19,Pen Set,Stationery,90
+20,Desk Lamp,Stationery,650
