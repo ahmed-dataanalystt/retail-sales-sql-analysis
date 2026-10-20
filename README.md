@@ -1,4 +1,4 @@
-# Retail Sales Analysis (SQL Server)
+# Retail Sales Analysis — SQL
 
 Analysis of two years of sales data (2024–2025) for an Egyptian retail store, answering 10 business questions with SQL.
 
